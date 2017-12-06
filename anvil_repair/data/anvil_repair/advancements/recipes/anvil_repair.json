@@ -3,7 +3,7 @@
   "rewards": {
     "recipes": [
 	  "anvil_repair:damaged_to_repaired",
-      "anvil_repair:chipped_to_repaired",
+      "anvil_repair:chipped_to_repaired"
     ]
   },
   "criteria": {
