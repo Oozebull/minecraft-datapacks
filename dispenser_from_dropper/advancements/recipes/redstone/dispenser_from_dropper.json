@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": [
+	  "dispenser_from_dropper:dispenser_from_dropper"
+    ]
+  },
+  "criteria": {
+    "has_dispenser": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:dispenser"
+          }
+        ]
+      }
+    },
+    "has_the_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "dispenser_from_dropper"
+      }
+    }
+  },
+  "requirements": [
+    [
+      "has_dispenser",
+      "has_the_recipe"
+    ]
+  ]
+}
