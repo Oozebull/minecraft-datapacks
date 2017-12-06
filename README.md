@@ -19,4 +19,4 @@ Playing around with Datapacks for Minecraft
   * 1xEgg + 9xGunpowder          -> 1xSpawn Creeper
   * 1xEgg + 9xBone               -> 1xSpawn Skeleton
   * 1xEgg + 9xRotten Flesh       -> 1xSpawn Zombie
-  *                              -> 1xSpawner
+  * 1xEnd Crystal + 9xIron Bars  -> 1xSpawner
