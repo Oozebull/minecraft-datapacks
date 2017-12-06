@@ -1,0 +1,20 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "###",
+        "#E#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:iron_bars"
+        },
+		"E": {
+            "item": "minecraft:end_crystal"
+        }
+    },
+    "result": {
+        "item": "minecraft:mob_spawner",
+        "count": 1
+    }
+}
