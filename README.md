@@ -18,7 +18,7 @@ Tested in: 17w49a
 * nether_wart
   * 1xNether Wart Block          -> 9xNether Wart
 * spawn_eggs
-  * 1xEgg + 9xGunpowder          -> 1xSpawn Creeper
-  * 1xEgg + 9xBone               -> 1xSpawn Skeleton
-  * 1xEgg + 9xRotten Flesh       -> 1xSpawn Zombie
-  * 1xEnd Crystal + 9xIron Bars  -> 1xSpawner
+  * 1xEgg + 8xGunpowder          -> 1xSpawn Creeper
+  * 1xEgg + 8xBone               -> 1xSpawn Skeleton
+  * 1xEgg + 8xRotten Flesh       -> 1xSpawn Zombie
+  * 1xEnd Crystal + 8xIron Bars  -> 1xSpawner
