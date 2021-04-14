@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 3,
+    "description": "Stairs make 8 per craft rather than 4 (all types). Makes more sense volumetrically- slabs aren't lossy, so why should stairs be? §7(Author: §aLigands§7)"
+  }
+}

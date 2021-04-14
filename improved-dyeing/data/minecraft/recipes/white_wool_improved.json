@@ -1,0 +1,15 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "lig:wool"
+        },
+        {
+            "item": "minecraft:bone_meal"
+        }
+    ],
+    "result": {
+        "item": "minecraft:white_wool",
+        "count": 1
+    }
+}

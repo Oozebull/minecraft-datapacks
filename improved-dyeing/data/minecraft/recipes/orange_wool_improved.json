@@ -1,0 +1,15 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "lig:wool"
+        },
+        {
+            "item": "minecraft:orange_dye"
+        }
+    ],
+    "result": {
+        "item": "minecraft:orange_wool",
+        "count": 1
+    }
+}

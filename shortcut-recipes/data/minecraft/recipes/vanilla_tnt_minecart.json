@@ -1,0 +1,19 @@
+﻿{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#",
+        "M"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:tnt"
+        },
+        "M": {
+            "item": "minecraft:minecart"
+        }
+    },
+    "result": {
+        "item": "minecraft:tnt_minecart",
+        "count": 1
+    }
+}

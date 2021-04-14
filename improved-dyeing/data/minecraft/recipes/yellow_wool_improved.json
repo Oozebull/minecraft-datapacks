@@ -1,0 +1,15 @@
+﻿{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "lig:wool"
+        },
+        {
+            "item": "minecraft:dandelion_yellow"
+        }
+    ],
+    "result": {
+        "item": "minecraft:yellow_wool",
+        "count": 1
+    }
+}
