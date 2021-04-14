@@ -1,7 +1,7 @@
 # minecraft* datapacks
 Playing around with Datapacks for Minecraft
 
-Tested in: 17w49a
+Tested in: 21w15a
 
 * anvil_repair
   * Chipped Anvil + 1xIron Block -> 1xAnvil
@@ -13,8 +13,6 @@ Tested in: 17w49a
   * 1xMushroom Block             -> 9xMushrooms
 * dispenser_from_dropper
   * 1x'Bow Recipe' + 1xDropper   -> 1xDispenser
-* icepacker
-  * 9xIce                        -> 1xPacked Ice
 * nether_wart
   * 1xNether Wart Block          -> 9xNether Wart
 * spawn_eggs
@@ -22,3 +20,7 @@ Tested in: 17w49a
   * 1xEgg + 8xBone               -> 1xSpawn Skeleton
   * 1xEgg + 8xRotten Flesh       -> 1xSpawn Zombie
   * 1xEnd Crystal + 8xIron Bars  -> 1xSpawner
+* smeltable_raw_ore_blocks
+  * 1xRaw Iron Block             -> 1xIron Block       (Takes the same time as smelting 9xRaw Iron Ore)
+  * 1xRaw Gold Block             -> 1xGold Block       (Takes the same time as smelting 9xRaw Gold Ore)
+  * 1xRaw Copper Block           -> 1xCopper Block     (Takes the same time as smelting 9xRaw Copper Ore)
